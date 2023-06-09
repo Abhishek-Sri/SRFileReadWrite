@@ -6,7 +6,7 @@ import java.io.FileOutputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 
-public class SRFileReader {
+public class BinFileRW {
     public static void main(String[] args) {
        // String filePath = "D:\\Demo\\SRFileReadWrite\\src\\com\\app\\EAGE_ILINE338_Salt_Model_original_cdp_tracl.bin_hx5.000_hz5.000_x2704z840_cdp_dt.sr";
     	String filePath = "D:\\Demo\\SRFileReadWrite\\src\\com\\app\\1_2fldr.bin";
